@@ -1,3 +1,7 @@
+# AN EXAMPLE CODE FOR INSTAGRAM
+
+- You can find me [@hasaandotdev](https://www.instagram.com/hasaandotdev)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
